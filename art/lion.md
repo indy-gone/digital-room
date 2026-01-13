@@ -1,7 +1,7 @@
 # Neon Lion - Paint by Numbers (December 2025) 
-**Medium** Acrylic paint by numbers on canvasboard 
-**time** completed in a single session lasting about 3 hours 
-**notes** This piece was chaotic, bright , frustrating and a little triumphant.  I remember finishing the eyes and watching it come to life. 
+**Medium:** Acrylic paint by numbers on canvasboard 
+**time:** completed in a single session lasting about 3 hours 
+**notes:** This piece was chaotic, bright , frustrating and a little triumphant.  I remember finishing the eyes and watching it come to life. 
 --- 
 image ( once i decide where to host images) 
 --- 
