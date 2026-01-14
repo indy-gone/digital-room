@@ -3,14 +3,14 @@ I'm using TryHackMe as a puzzle box to learn security basics and for a bit of fu
 
 This page is basically a sticker box for my achievements ! 
 
-##first four
+first four
 
 <img src="https://tryhackme.com/img/badges/firstfour.svg" width = "120">
 
 completed 4 rooms within my first week - Jan 2026 
 
 ---
-##webbed
+webbed
 
 <img src="https://tryhackme.com/img/badges/webbed.svg" width = "120" > 
 
